@@ -2,13 +2,23 @@
 <items>
 
   <item id="1">
-    <name>test</name>
-    <value>1</value>
+    <name>Test</name>
+    <value>123</value>
   </item>
   
   <item id="2">
-    <name>test2</name>
-    <value>32341</value>
+    <name>Test</name>
+    <value>123</value>
+  </item>
+  
+  <item id="1">
+    <name>Test</name>
+    <value>123</value>
+  </item>
+  
+  <item id="2">
+    <name>Test</name>
+    <value>123</value>
   </item>
 
 </items>
