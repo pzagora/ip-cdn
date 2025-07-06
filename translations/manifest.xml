@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <file>language.xml</file>
+  <file>ui.common.xml</file>
+  <file>ui.authentication.xml</file>
+  <file>error.validation.xml</file>
+</manifest>
+

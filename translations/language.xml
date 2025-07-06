@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <translation id="1" key="language.english">
+    <value lang="en">English</value>
+    <value lang="pl">Angielski</value>
+    <value lang="de">Englisch</value>
+    <value lang="fr">Anglais</value>
+    <value lang="es">Inglés</value>
+    <value lang="ru">Английский</value>
+    <value lang="zh-CN">英语</value>
+    <value lang="ja">英語</value>
+    <value lang="it">Inglese</value>
+    <value lang="ko">영어</value>
+    <value lang="pt-BR">Inglês</value>
+    <value lang="tr">İngilizce</value>
+  </translation>
+  <translation id="2" key="language.polish">
+    <value lang="en">Polish</value>
+    <value lang="pl">Polski</value>
+    <value lang="de">Polnisch</value>
+    <value lang="fr">Polonais</value>
+    <value lang="es">Polaco</value>
+    <value lang="ru">Польский</value>
+    <value lang="zh-CN">波兰语</value>
+    <value lang="ja">ポーランド語</value>
+    <value lang="it">Polacco</value>
+    <value lang="ko">폴란드어</value>
+    <value lang="pt-BR">Polonês</value>
+    <value lang="tr">Lehçe</value>
+  </translation>
+  <translation id="3" key="language.german">
+    <value lang="en">German</value>
+    <value lang="pl">Niemiecki</value>
+    <value lang="de">Deutsch</value>
+    <value lang="fr">Allemand</value>
+    <value lang="es">Alemán</value>
+    <value lang="ru">Немецкий</value>
+    <value lang="zh-CN">德语</value>
+    <value lang="ja">ドイツ語</value>
+    <value lang="it">Tedesco</value>
+    <value lang="ko">독일어</value>
+    <value lang="pt-BR">Alemão</value>
+    <value lang="tr">Almanca</value>
+  </translation>
+  <translation id="4" key="language.french">
+    <value lang="en">French</value>
+    <value lang="pl">Francuski</value>
+    <value lang="de">Französisch</value>
+    <value lang="fr">Français</value>
+    <value lang="es">Francés</value>
+    <value lang="ru">Французский</value>
+    <value lang="zh-CN">法语</value>
+    <value lang="ja">フランス語</value>
+    <value lang="it">Francese</value>
+    <value lang="ko">프랑스어</value>
+    <value lang="pt-BR">Francês</value>
+    <value lang="tr">Fransızca</value>
+  </translation>
+  <translation id="5" key="language.spanish">
+    <value lang="en">Spanish</value>
+    <value lang="pl">Hiszpański</value>
+    <value lang="de">Spanisch</value>
+    <value lang="fr">Espagnol</value>
+    <value lang="es">Español</value>
+    <value lang="ru">Испанский</value>
+    <value lang="zh-CN">西班牙语</value>
+    <value lang="ja">スペイン語</value>
+    <value lang="it">Spagnolo</value>
+    <value lang="ko">스페인어</value>
+    <value lang="pt-BR">Espanhol</value>
+    <value lang="tr">İspanyolca</value>
+  </translation>
+  <translation id="6" key="language.russian">
+    <value lang="en">Russian</value>
+    <value lang="pl">Rosyjski</value>
+    <value lang="de">Russisch</value>
+    <value lang="fr">Russe</value>
+    <value lang="es">Ruso</value>
+    <value lang="ru">Русский</value>
+    <value lang="zh-CN">俄语</value>
+    <value lang="ja">ロシア語</value>
+    <value lang="it">Russo</value>
+    <value lang="ko">러시아어</value>
+    <value lang="pt-BR">Russo</value>
+    <value lang="tr">Rusça</value>
+  </translation>
+  <translation id="7" key="language.chinese.simplified">
+    <value lang="en">Chinese (Simplified)</value>
+    <value lang="pl">Chiński (uproszczony)</value>
+    <value lang="de">Chinesisch (vereinfacht)</value>
+    <value lang="fr">Chinois (simplifié)</value>
+    <value lang="es">Chino (simplificado)</value>
+    <value lang="ru">Китайский (упрощенный)</value>
+    <value lang="zh-CN">简体中文</value>
+    <value lang="ja">簡体字中国語</value>
+    <value lang="it">Cinese (semplificato)</value>
+    <value lang="ko">중국어(간체)</value>
+    <value lang="pt-BR">Chinês (Simplificado)</value>
+    <value lang="tr">Çince (Basitleştirilmiş)</value>
+  </translation>
+  <translation id="8" key="language.japanese">
+    <value lang="en">Japanese</value>
+    <value lang="pl">Japoński</value>
+    <value lang="de">Japanisch</value>
+    <value lang="fr">Japonais</value>
+    <value lang="es">Japonés</value>
+    <value lang="ru">Японский</value>
+    <value lang="zh-CN">日语</value>
+    <value lang="ja">日本語</value>
+    <value lang="it">Giapponese</value>
+    <value lang="ko">일본어</value>
+    <value lang="pt-BR">Japonês</value>
+    <value lang="tr">Japonca</value>
+  </translation>
+  <translation id="9" key="language.italian">
+    <value lang="en">Italian</value>
+    <value lang="pl">Włoski</value>
+    <value lang="de">Italienisch</value>
+    <value lang="fr">Italien</value>
+    <value lang="es">Italiano</value>
+    <value lang="ru">Итальянский</value>
+    <value lang="zh-CN">意大利语</value>
+    <value lang="ja">イタリア語</value>
+    <value lang="it">Italiano</value>
+    <value lang="ko">이탈리아어</value>
+    <value lang="pt-BR">Italiano</value>
+    <value lang="tr">İtalyanca</value>
+  </translation>
+  <translation id="10" key="language.korean">
+    <value lang="en">Korean</value>
+    <value lang="pl">Koreański</value>
+    <value lang="de">Koreanisch</value>
+    <value lang="fr">Coréen</value>
+    <value lang="es">Coreano</value>
+    <value lang="ru">Корейский</value>
+    <value lang="zh-CN">韩语</value>
+    <value lang="ja">韓国語</value>
+    <value lang="it">Coreano</value>
+    <value lang="ko">한국어</value>
+    <value lang="pt-BR">Coreano</value>
+    <value lang="tr">Korece</value>
+  </translation>
+  <translation id="11" key="language.portuguese.brazil">
+    <value lang="en">Portuguese (Brazil)</value>
+    <value lang="pl">Portugalski (Brazylia)</value>
+    <value lang="de">Portugiesisch (Brasilien)</value>
+    <value lang="fr">Portugais (Brésil)</value>
+    <value lang="es">Portugués (Brasil)</value>
+    <value lang="ru">Португальский (Бразилия)</value>
+    <value lang="zh-CN">葡萄牙语（巴西）</value>
+    <value lang="ja">ブラジルのポルトガル語</value>
+    <value lang="it">Portoghese (Brasile)</value>
+    <value lang="ko">포르투갈어(브라질)</value>
+    <value lang="pt-BR">Português (Brasil)</value>
+    <value lang="tr">Portekizce (Brezilya)</value>
+  </translation>
+  <translation id="12" key="language.turkish">
+    <value lang="en">Turkish</value>
+    <value lang="pl">Turecki</value>
+    <value lang="de">Türkisch</value>
+    <value lang="fr">Turc</value>
+    <value lang="es">Turco</value>
+    <value lang="ru">Турецкий</value>
+    <value lang="zh-CN">土耳其语</value>
+    <value lang="ja">トルコ語</value>
+    <value lang="it">Turco</value>
+    <value lang="ko">터키어</value>
+    <value lang="pt-BR">Turco</value>
+    <value lang="tr">Türkçe</value>
+  </translation>
+</translations>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <translation id="13" key="ui.common.close">
+    <value lang="en">Close</value>
+    <value lang="pl">Zamknij</value>
+    <value lang="de">Schließen</value>
+    <value lang="fr">Fermer</value>
+    <value lang="es">Cerrar</value>
+    <value lang="ru">Закрыть</value>
+    <value lang="zh-CN">关闭</value>
+    <value lang="ja">閉じる</value>
+    <value lang="it">Chiudi</value>
+    <value lang="ko">닫기</value>
+    <value lang="pt-BR">Fechar</value>
+    <value lang="tr">Kapat</value>
+  </translation>
+</translations>
+

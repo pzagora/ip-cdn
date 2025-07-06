@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <translation id="14" key="ui.authentication.register">
+    <value lang="en">Register</value>
+    <value lang="pl">Zarejestruj się</value>
+    <value lang="de">Registrieren</value>
+    <value lang="fr">S’inscrire</value>
+    <value lang="es">Registrarse</value>
+    <value lang="ru">Зарегистрироваться</value>
+    <value lang="zh-CN">注册</value>
+    <value lang="ja">登録する</value>
+    <value lang="it">Registrati</value>
+    <value lang="ko">회원가입</value>
+    <value lang="pt-BR">Registrar-se</value>
+    <value lang="tr">Kayıt ol</value>
+  </translation>
+  <translation id="15" key="ui.authentication.login">
+    <value lang="en">Log in</value>
+    <value lang="pl">Zaloguj się</value>
+    <value lang="de">Anmelden</value>
+    <value lang="fr">Se connecter</value>
+    <value lang="es">Iniciar sesión</value>
+    <value lang="ru">Войти</value>
+    <value lang="zh-CN">登录</value>
+    <value lang="ja">ログインする</value>
+    <value lang="it">Accedi</value>
+    <value lang="ko">로그인</value>
+    <value lang="pt-BR">Entrar</value>
+    <value lang="tr">Giriş yap</value>
+  </translation>
+  <translation id="16" key="ui.authentication.login.via.steam">
+    <value lang="en">Log in via Steam</value>
+    <value lang="pl">Zaloguj przez Steam</value>
+    <value lang="de">Über Steam anmelden</value>
+    <value lang="fr">Se connecter via Steam</value>
+    <value lang="es">Iniciar sesión con Steam</value>
+    <value lang="ru">Войти через Steam</value>
+    <value lang="zh-CN">通过 Steam 登录</value>
+    <value lang="ja">Steam でログイン</value>
+    <value lang="it">Accedi con Steam</value>
+    <value lang="ko">Steam으로 로그인</value>
+    <value lang="pt-BR">Entrar com Steam</value>
+    <value lang="tr">Steam ile giriş yap</value>
+  </translation>
+  <translation id="17" key="ui.authentication.logout">
+    <value lang="en">Log out</value>
+    <value lang="pl">Wyloguj się</value>
+    <value lang="de">Abmelden</value>
+    <value lang="fr">Se déconnecter</value>
+    <value lang="es">Cerrar sesión</value>
+    <value lang="ru">Выйти</value>
+    <value lang="zh-CN">登出</value>
+    <value lang="ja">ログアウトする</value>
+    <value lang="it">Esci</value>
+    <value lang="ko">로그아웃</value>
+    <value lang="pt-BR">Sair</value>
+    <value lang="tr">Çıkış yap</value>
+  </translation>
+  <translation id="18" key="ui.authentication.bind">
+    <value lang="en">Link account</value>
+    <value lang="pl">Połącz konto</value>
+    <value lang="de">Konto verknüpfen</value>
+    <value lang="fr">Lier le compte</value>
+    <value lang="es">Vincular cuenta</value>
+    <value lang="ru">Привязать аккаунт</value>
+    <value lang="zh-CN">绑定账号</value>
+    <value lang="ja">アカウントを連携する</value>
+    <value lang="it">Collega account</value>
+    <value lang="ko">계정 연동</value>
+    <value lang="pt-BR">Vincular conta</value>
+    <value lang="tr">Hesap bağla</value>
+  </translation>
+  <translation id="19" key="ui.authentication.unbind">
+    <value lang="en">Unlink account</value>
+    <value lang="pl">Odłącz konto</value>
+    <value lang="de">Konto trennen</value>
+    <value lang="fr">Dissocier le compte</value>
+    <value lang="es">Desvincular cuenta</value>
+    <value lang="ru">Отвязать аккаунт</value>
+    <value lang="zh-CN">解绑账号</value>
+    <value lang="ja">アカウントの連携を解除</value>
+    <value lang="it">Scollega account</value>
+    <value lang="ko">계정 연결 해제</value>
+    <value lang="pt-BR">Desvincular conta</value>
+    <value lang="tr">Hesap bağlantısını kaldır</value>
+  </translation>
+</translations>
+
